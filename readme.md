@@ -12,15 +12,13 @@ Este plugin es una extensión simple pero poderosa para el navegador Google Chro
 * **Recarga Automática:** Fuerza un refresco (reload) inmediato de la pestaña activa después de cada cambio de configuración, asegurando que el nuevo ajuste de JS se aplique al instante.
 * **Interfaz Intuitiva:** Utiliza un **botón deslizante (toggle switch)** en la ventana emergente de la extensión para mostrar y modificar el estado actual de JS de manera clara.
 
-### 🛠️ ¿Para qué sirve?
+### ¿Para qué sirve?
 
 * **Seguridad:** Bloquea temporalmente scripts de sitios poco confiables.
 * **Rendimiento:** Mejora el tiempo de carga y reduce el uso de CPU en sitios pesados.
 * **Desarrollo:** Permite a los desarrolladores y testers verificar cómo se comportan los sitios sin scripts.
 
----
-
-## 📥 Pasos para la Instalación
+## Pasos para la Instalación
 
 Dado que esta es una extensión personalizada que no está en la Chrome Web Store, debe instalarse mediante el **Modo de desarrollador**.
 
@@ -36,7 +34,7 @@ Sigue estos pasos para cargar e iniciar la extensión en Google Chrome:
 1.  Abre Google Chrome y navega a la **Gestión de extensiones** escribiendo la siguiente dirección en la barra URL y presionando Enter:
     `chrome://extensions`
 2.  En la esquina superior derecha de la pantalla, busca el interruptor llamado **'Modo de desarrollador'**.
-3.  **Activa** el 'Modo de desarrollador' 🔄. Esto hará que aparezcan nuevos botones en la parte superior de la página, incluido 'Cargar descomprimida'.
+3.  **Activa** el 'Modo de desarrollador'. Esto hará que aparezcan nuevos botones en la parte superior de la página, incluido 'Cargar descomprimida'.
 
 ### **Paso 3: Cargar la Extensión**
 
