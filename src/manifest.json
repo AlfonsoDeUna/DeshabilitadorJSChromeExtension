@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Deshabilitador de JavaScript Pac&Company",
+  "version": "1.0",
+  "description": "Una extensión deshabilitar el javascript en las pestañas activas",
+  "action": {
+    "default_icon": "icon.png", 
+    "default_popup": "popup.html",
+    "default_title": "Haz clic para cambiar el color"
+  },
+  "permissions": [
+    "activeTab", 
+    "scripting",
+    "contentSettings",
+    "tabs"  
+  ]
+}
