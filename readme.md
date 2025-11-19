@@ -44,11 +44,5 @@ Sigue estos pasos para cargar e iniciar la extensión en Google Chrome:
 
 ### **Paso 4: Uso**
 
-1.  Haz clic en el **icono de la extensión** (normalmente aparece como un puzzle o el icono que definiste) en la barra de herramientas de Chrome.
+1.  Haz clic en el **icono de la extensión** en la barra de herramientas de Chrome.
 2.  Aparecerá el popup con el botón deslizante para **activar** o **desactivar** JavaScript en el sitio web que estés visitando.
-
----
-
-
-* **La extensión no carga:** Asegúrate de haber seleccionado la **carpeta principal** de la extensión (la que contiene el archivo `manifest.json`), no solo el contenido de la carpeta.
-* **Los cambios no funcionan:** Si la extensión está instalada, asegúrate de que tienes los permisos correctos (`contentSettings` y `tabs`) en el `manifest.json`.
